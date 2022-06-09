@@ -8,9 +8,9 @@
 import Foundation
 
 enum MovieServiceEndPoint : String{
-    case API_KEY = "************"
+    case API_KEY = "838544c273ff9b27d25228f6d327f465"
     case BASE_URL = "https://api.themoviedb.org/3"
-    case YOUTUBE_API_KEY = "********"
+    case YOUTUBE_API_KEY = "AIzaSyAfZE9v07-oa5-cTvcIoV79eFRkI5cBsbY"
     case YOUTUBE_BASE_URL = "https://youtube.googleapis.com/youtube/v3/search?"
     case API_PATH = "?api_key="
     case PAGINATION = "&language=en-US&page=1"
